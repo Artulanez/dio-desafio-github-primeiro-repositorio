@@ -1,0 +1,5 @@
+Extenções para o C#
+	C#(para reconhecer que o codigo escrito é um codigo C#)
+	C# Extensions(Instalar a JosKreativ, ele acrescenta o menu do botão direito para facilitar criação de novas classes por exemplo)
+	vscode-icons(Auxilia visualmente na identificação de arquivos, na pratica da um cor e icone diferente de acordo com a extenção do arquivo)
+	vscode-solution-explorer (para poder trabalhar com soluctions igual ao visual studio)
